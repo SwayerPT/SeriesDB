@@ -27,7 +27,7 @@ Our database is not free.. We need to pay to ensure their integration and ensure
 http://ts.flowcm.xyz
 
 - SeriesDB Offical Website
-http://seriesdb.ddns.net
+http://seriesdb.ddns.net/seriesdb
 
 ## Donations: 
 https://steamcommunity.com/tradeoffer/new/?partner=172427377&token=m9yCqbtE
