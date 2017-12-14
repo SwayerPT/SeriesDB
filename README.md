@@ -31,3 +31,5 @@ http://seriesdb.ddns.net/seriesdb
 
 ## Donations: 
 https://steamcommunity.com/tradeoffer/new/?partner=172427377&token=m9yCqbtE
+
+**Bitcoin:** 1PGfgzLGxUBxuMwCP1fHQCCNAQB9BrmrUe
